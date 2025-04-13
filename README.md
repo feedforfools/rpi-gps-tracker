@@ -1,4 +1,4 @@
-# GPS Tracker System
+# Rasperry PI-based GPS Tracker
 
 ## Overview
 This system is a Python-based GPS tracking and BLE scanning solution designed to run on Raspberry Pi OS (Lite) with a Qualcomm SIM7000E GSM/GPS module. The system provides real-time location tracking, BLE device scanning, and network connectivity over both GSM and WiFi interfaces.
